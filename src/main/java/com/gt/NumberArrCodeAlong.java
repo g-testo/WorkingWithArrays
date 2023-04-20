@@ -34,8 +34,6 @@ public class NumberArrCodeAlong {
         System.out.println(Arrays.toString(unsortedArray));
         System.out.println(Arrays.toString(unsortedCopyArray));
 
-
-
     }
     public static int[] numArrGenny(int num){
         int[] numArr = new int[num];
